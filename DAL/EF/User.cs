@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace DAL.EF
 {
-    public class Student
+    public class User
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public double Cgpa { get; set; }
-        public string Dept { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
+
     }
 }

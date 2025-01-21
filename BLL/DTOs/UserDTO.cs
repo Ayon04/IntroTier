@@ -6,12 +6,15 @@ using System.Text;
 using System.Threading.Tasks;
 namespace BLL.DTOs
 {
-    public class StudentDTO
+    public class UserDTO
     { 
 
         public int Id { get; set; }
-        public string Name { get; set; }
-        public double Cgpa { get; set; }
-        public string Dept { get; set; }
+        
+        public string Email { get; set; }
+
+        public string Password { get; set; }
+
+
     }
 }

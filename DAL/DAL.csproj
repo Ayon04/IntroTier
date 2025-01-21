@@ -52,23 +52,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="EF\Student.cs" />
-    <Compile Include="EF\UMSContext.cs" />
-    <Compile Include="Migrations\202501041731381_initDB.cs" />
-    <Compile Include="Migrations\202501041731381_initDB.designer.cs">
-      <DependentUpon>202501041731381_initDB.cs</DependentUpon>
+    <Compile Include="EF\Contact.cs" />
+    <Compile Include="EF\User.cs" />
+    <Compile Include="EF\CMSContext.cs" />
+    <Compile Include="Migrations\202501211333054_create_table.cs" />
+    <Compile Include="Migrations\202501211333054_create_table.designer.cs">
+      <DependentUpon>202501211333054_create_table.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repos\StudentRepo.cs" />
+    <Compile Include="Repos\ContactRepo.cs" />
+    <Compile Include="Repos\UserRepo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202501041731381_initDB.resx">
-      <DependentUpon>202501041731381_initDB.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202501211333054_create_table.resx">
+      <DependentUpon>202501211333054_create_table.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

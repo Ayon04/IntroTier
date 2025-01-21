@@ -8,8 +8,12 @@ using System.Threading.Tasks;
 
 namespace DAL.EF
 {
-    public class UMSContext : DbContext
+    public class CMSContext : DbContext
     {
-        public DbSet<Student> Students { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<Contact> Contacts { get; set; }
+
     }
+
+    
 }

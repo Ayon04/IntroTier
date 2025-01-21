@@ -5,14 +5,14 @@
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<DAL.EF.UMSContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<DAL.EF.CMSContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(DAL.EF.UMSContext context)
+        protected override void Seed(DAL.EF.CMSContext context)
         {
             //  This method will be called after migrating to the latest version.
 
