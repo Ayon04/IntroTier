@@ -26,3 +26,17 @@ C:\Users\Ayon Ghosh\Desktop\asa\Fall24_B\IntroTier\BLL\obj\Debug\BLL.csproj.Core
 C:\Users\Ayon Ghosh\Desktop\asa\Fall24_B\IntroTier\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Ayon Ghosh\Desktop\asa\Fall24_B\IntroTier\BLL\obj\Debug\BLL.dll
 C:\Users\Ayon Ghosh\Desktop\asa\Fall24_B\IntroTier\BLL\obj\Debug\BLL.pdb
+C:\Proj\IntroTier\BLL\bin\Debug\BLL.dll
+C:\Proj\IntroTier\BLL\bin\Debug\BLL.pdb
+C:\Proj\IntroTier\BLL\bin\Debug\AutoMapper.dll
+C:\Proj\IntroTier\BLL\bin\Debug\DAL.dll
+C:\Proj\IntroTier\BLL\bin\Debug\EntityFramework.dll
+C:\Proj\IntroTier\BLL\bin\Debug\DAL.pdb
+C:\Proj\IntroTier\BLL\bin\Debug\DAL.dll.config
+C:\Proj\IntroTier\BLL\bin\Debug\AutoMapper.xml
+C:\Proj\IntroTier\BLL\bin\Debug\EntityFramework.xml
+C:\Proj\IntroTier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Proj\IntroTier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Proj\IntroTier\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Proj\IntroTier\BLL\obj\Debug\BLL.dll
+C:\Proj\IntroTier\BLL\obj\Debug\BLL.pdb

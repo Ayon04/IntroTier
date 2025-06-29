@@ -26,3 +26,15 @@ C:\Users\Ayon Ghosh\Desktop\asa\Fall24_B\IntroTier\DAL\obj\Debug\DAL.dll
 C:\Users\Ayon Ghosh\Desktop\asa\Fall24_B\IntroTier\DAL\obj\Debug\DAL.pdb
 C:\Users\Ayon Ghosh\Desktop\asa\Fall24_B\IntroTier\DAL\obj\Debug\DAL.Migrations.create_table.resources
 C:\Users\Ayon Ghosh\Desktop\asa\Fall24_B\IntroTier\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Proj\IntroTier\DAL\bin\Debug\DAL.dll.config
+C:\Proj\IntroTier\DAL\bin\Debug\DAL.dll
+C:\Proj\IntroTier\DAL\bin\Debug\DAL.pdb
+C:\Proj\IntroTier\DAL\bin\Debug\EntityFramework.dll
+C:\Proj\IntroTier\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proj\IntroTier\DAL\bin\Debug\EntityFramework.xml
+C:\Proj\IntroTier\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proj\IntroTier\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Proj\IntroTier\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Proj\IntroTier\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Proj\IntroTier\DAL\obj\Debug\DAL.dll
+C:\Proj\IntroTier\DAL\obj\Debug\DAL.pdb
